@@ -1,0 +1,13 @@
+name: pIIpet-p23
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9  
+  - jupyterlab=3.0.7
+  - jupyter-offlinenotebook=0.2.1
+  - pandas=1.2.2
+  - openpyxl
+  - matplotlib
+  - seaborn
+  
