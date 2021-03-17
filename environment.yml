@@ -1,4 +1,4 @@
-name: pIIpet-p23
+name: pIIpet-p24
 channels:
   - conda-forge
   - defaults
@@ -10,4 +10,6 @@ dependencies:
   - openpyxl
   - matplotlib
   - seaborn
+  - numpy
+  - scipy
   
